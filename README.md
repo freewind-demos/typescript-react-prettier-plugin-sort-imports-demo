@@ -1,7 +1,7 @@
-TypeScript Prettier Demo
+TypeScript React Prettier Plugin Sort Imports  Demo
 ===========================
 
-使用prettier来检查和修正代码格式。
+利用正则表达式来修正importing order
 
 ```
 npm install
